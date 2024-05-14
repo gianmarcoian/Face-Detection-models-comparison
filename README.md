@@ -1,7 +1,7 @@
 # Face Detection Models Comparison
 Welcome to the Face Detection Models Comparison repository!
 In this repository, you can find:
-- `report.pdf`: This document illustrates the results of the study conducted.
+- `report.docx`: This document illustrates the results of the study conducted.
 - `notebook.ipynb`: The Python notebook containing the code.
 I hope to update this repository in the future as I plan to work more frequently on this matter. This was my very first approach to this field, and I look forward to enhancing and expanding upon it.
 ## How to Use
